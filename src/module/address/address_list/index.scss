@@ -1,0 +1,16 @@
+.address-list-wrapper {
+  background: #f8f8f8;
+  height: 100vh;
+  padding: 0.01px;
+  position: relative;
+  .no-address-wrapper {
+    position: relative;
+    top: 198rpx;
+  }
+  .add-wrapper {
+    position: fixed;
+    bottom: 36rpx;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}

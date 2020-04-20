@@ -1,0 +1,71 @@
+
+.address_item {
+  width: 710px;
+  min-height: 244px;
+  margin: 18px auto;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 1);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.05);
+
+  .address_content {
+    padding: 35px 30px 30px;
+
+    .address_user_info {
+      color: #212121;
+      font-size: 30px;
+			font-family:PingFang SC;
+			font-weight:500;
+      .address_detail {
+				padding-top: 26px;
+				line-height:36px;
+      }
+
+      .nickname {
+				font-size: 34px;
+				padding-right: 12px;
+      }
+    }
+
+    .address_action {
+			font-size: 28px;
+			color: #5D5D5D;
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			font-weight:500;
+
+			.default {
+				padding-left: 47px;
+				height: 40px;
+				line-height: 40px;
+				&.no_choose {
+					background: url("../asset/icon_no_choice@2x.png") no-repeat;
+					background-size: contain;
+				}
+				&.choose {
+					background: url("../asset/icon_choice@2x.png") no-repeat;
+					background-size: contain;
+				}
+			}
+			.action {
+				display: flex;
+			}
+			.edit {
+				height: 30px;
+				background: url("../asset/icon_bianji@2x.png") no-repeat;
+				background-size: contain;
+				margin-right: 50px;
+			}
+			.delete {
+				height: 30px;
+				background: url("../asset/icon_delete@2x.png") no-repeat;
+				background-size: contain;
+			}
+			.icon {
+        padding-left: 34px;
+        display: flex;
+        align-items: center;
+			}
+    }
+  }
+}

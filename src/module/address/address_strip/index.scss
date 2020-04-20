@@ -1,0 +1,50 @@
+.addr_strip_wrap {
+  width: 714px;
+  min-height: 176px;
+  margin: 0 auto;
+  background: rgba(255, 255, 255, 1);
+  border-radius: 20px;
+
+  .addr_strip {
+    height: 100%;
+    display: flex;
+    padding: 48px 22px;
+    align-items: center;
+    justify-content: space-between;
+
+    .content {
+      flex: 1;
+      padding: 0 32px;
+    }
+    .address_info {
+      // max-width: 472px;
+      font-size: 34px;
+      color: #202020;
+
+      .nickname {
+        font-weight: 500;
+      }
+
+      .address_detail {
+        padding-top: 18px;
+        font-size: 30px;
+        color: #212121;
+      }
+    }
+  }
+}
+
+.addr_icon {
+  width: 72px;
+  height: 72px;
+  background: url("../asset/icon_dizhi@2x.png") no-repeat;
+  background-size: contain !important;
+}
+
+.addr_more {
+  width: 30px;
+  height: 30px;
+  background: url("../asset/icon_enter@2x.png") no-repeat;
+  background-size: contain;
+  margin-left: 50px;
+}
