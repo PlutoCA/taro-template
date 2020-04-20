@@ -1,13 +1,14 @@
 /*
- * @Description: In User Settings Edit
- * @Author: your name
- * @Date: 2019-08-27 18:06:41
- * @LastEditTime: 2020-04-16 10:36:55
+ * @Date: 2020-04-20 17:42:13
  * @LastEditors: Pluto
+ * @LastEditTime: 2020-04-20 17:45:43
  */
-import qs from "qs";
+import qs from "qs"
+import routers from "./router"
 
-const router = {};
+const router = {
+  ...routers
+}
 
 export type Router = keyof typeof router;
 

@@ -11,6 +11,7 @@
 |   |   |   ├── banner     页面 index 私有组件
 |   |   |   ├── index.js   index 页面逻辑
 |   |   |   └── index.css  index 页面样式
+|   ├── router             路由目录
 |   ├── utils              公共方法库
 |   ├── app.css            项目总通用样式
 |   └── app.js             项目入口文件
@@ -26,8 +27,9 @@
 - [x] 网络请求 (chili)
 - [x] scss全局变量(style/theme.scss)
 - [x] 基础TsLint/EsLint校验
-- [x] 简单的git仓库
+- [x] router
 - [x] taro-ui库引用
+- [x] 简单的git仓库
 
 ### 通用模块
 - [x] 地址模块
