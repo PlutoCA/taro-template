@@ -3,24 +3,20 @@ import { View, Text } from '@tarojs/components'
 import AuthorizeModel from "../../components/authorize-model"
 import './index.scss'
 
-const MyContext = Taro.createContext({
-  name: 'Guest'
-})
-
 export default class Index extends Component {
 
 
-  componentWillMount () { }
+  componentWillMount() { }
 
   componentDidMount = async () => {
     await console.log(this.context)
   }
 
-  componentWillUnmount () { }
+  componentWillUnmount() { }
 
-  componentDidShow () { }
+  componentDidShow() { }
 
-  componentDidHide () { }
+  componentDidHide() { }
 
   /**
    * 指定config的类型声明为: Taro.Config
@@ -33,12 +29,10 @@ export default class Index extends Component {
     navigationBarTitleText: '首页'
   }
 
-  render () {
+  render() {
     return (
       <View className='index'>
-        <MyContext.Provider value={{name: 'Guest1'}}>
-          <AuthorizeModel isHidden={false} />
-        </MyContext.Provider>
+        <AuthorizeModel isHidden={false} />
         <View>
           登录信息
         </View>

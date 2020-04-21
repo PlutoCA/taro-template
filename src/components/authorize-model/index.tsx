@@ -1,4 +1,4 @@
-import Taro from "@tarojs/taro"
+import Taro, { useDidShow } from "@tarojs/taro"
 import { View, Button, Image } from "@tarojs/components"
 import './index.scss'
 
@@ -11,8 +11,12 @@ interface Props {
 
 export default function AuthorizeModel(props: Props) {
 
+  useDidShow(() => {
+    console.log('a')
+  })
+
   const onGetUserInfo = (e) => {
-    if (e.detail.errMsg.indexOf('ok') !== -1) { // 
+    if (e.detail.errMsg.indexOf('ok') !== -1) { //
 
     }
   }
