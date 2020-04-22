@@ -1002,13 +1002,13 @@
   resolved "https://registry.npm.taobao.org/@sindresorhus/is/download/@sindresorhus/is-0.7.0.tgz#9a06f4f137ee84d7df0460c1fdb1135ffa6c50fd"
   integrity sha1-mgb08TfuhNffBGDB/bETX/psUP0=
 
-"@tarojs/cli@2.1.5":
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/@tarojs/cli/download/@tarojs/cli-2.1.5.tgz#30795bf6370bc76235d1391a3fa528de9d440311"
-  integrity sha1-MHlb9jcLx2I10TkaP6Uo3p1EAxE=
+"@tarojs/cli@2.1.4":
+  version "2.1.4"
+  resolved "https://registry.npm.taobao.org/@tarojs/cli/download/@tarojs/cli-2.1.4.tgz#b659f36cce2e68578cd74e37ae2c9fa67663c6e2"
+  integrity sha1-tlnzbM4uaFeM1043riyfpnZjxuI=
   dependencies:
-    "@tarojs/taroize" "2.1.5"
-    "@tarojs/transformer-wx" "2.1.5"
+    "@tarojs/taroize" "2.1.4"
+    "@tarojs/transformer-wx" "2.1.4"
     "@types/request" "^2.48.1"
     "@typescript-eslint/parser" "^2.0.0"
     adm-zip "^0.4.13"
@@ -1019,7 +1019,7 @@
     babel-plugin-preval "1.6.4"
     babel-plugin-transform-decorators-legacy "^1.3.4"
     babel-plugin-transform-define "^1.3.0"
-    babel-plugin-transform-jsx-to-stylesheet "2.1.5"
+    babel-plugin-transform-jsx-to-stylesheet "2.1.4"
     babel-plugin-transform-react-jsx "^6.24.1"
     babel-plugin-transform-taroapi "1.3.15"
     babel-template "^6.26.0"
@@ -1033,11 +1033,11 @@
     download-git-repo "^2.0.0"
     envinfo "^6.0.1"
     eslint "^6.8.0"
-    eslint-config-taro "2.1.5"
+    eslint-config-taro "2.1.4"
     eslint-plugin-import "^2.8.0"
     eslint-plugin-react "^7.4.0"
     eslint-plugin-react-hooks "^1.6.1"
-    eslint-plugin-taro "2.1.5"
+    eslint-plugin-taro "2.1.4"
     eslint-plugin-typescript "^0.12.0"
     fbjs "^1.0.0"
     find-yarn-workspace-root "1.2.1"
@@ -1053,7 +1053,7 @@
     npm-check "^5.9.0"
     ora "^2.0.0"
     postcss "^6.0.22"
-    postcss-pxtransform "2.1.5"
+    postcss-pxtransform "2.1.4"
     postcss-reporter "^6.0.1"
     postcss-taro-unit-transform "1.2.15"
     prettier "^1.16.4"
@@ -1064,24 +1064,24 @@
     semver "^5.5.0"
     shelljs "^0.8.1"
     stylelint "9.3.0"
-    stylelint-config-taro-rn "2.1.5"
-    stylelint-taro-rn "2.1.5"
+    stylelint-config-taro-rn "2.1.4"
+    stylelint-taro-rn "2.1.4"
     tapable "^1.1.3"
-    taro-css-to-react-native "2.1.5"
+    taro-css-to-react-native "2.1.4"
     tcp-port-used "^1.0.1"
     xml2js "^0.4.19"
     xxhashjs "^0.2.2"
     yauzl "2.10.0"
 
-"@tarojs/components-qa@2.1.5":
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/@tarojs/components-qa/download/@tarojs/components-qa-2.1.5.tgz#4f00629310983281f248ced63b7fc6319d7d6fd2"
-  integrity sha1-TwBikxCYMoHySM7WO3/GMZ19b9I=
+"@tarojs/components-qa@2.1.4":
+  version "2.1.4"
+  resolved "https://registry.npm.taobao.org/@tarojs/components-qa/download/@tarojs/components-qa-2.1.4.tgz#3749562a05d64a54f9973eef4e9e0fc04cf90da1"
+  integrity sha1-N0lWKgXWSlT5lz7vTp4PwEz5DaE=
 
-"@tarojs/components@2.1.5":
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/@tarojs/components/download/@tarojs/components-2.1.5.tgz#c813faa01476f63b67d99f52ae1275287ffe6ddd"
-  integrity sha1-yBP6oBR29jtn2Z9SrhJ1KH/+bd0=
+"@tarojs/components@2.1.4":
+  version "2.1.4"
+  resolved "https://registry.npm.taobao.org/@tarojs/components/download/@tarojs/components-2.1.4.tgz#fbf4b4394034b30a87184ad9c4399f05085c92a2"
+  integrity sha1-+/S0OUA0swqHGErZxDmfBQhckqI=
   dependencies:
     classnames "^2.2.5"
     intersection-observer "^0.7.0"
@@ -1140,18 +1140,18 @@
     webpack-format-messages "^2.0.5"
     yauzl "2.10.0"
 
-"@tarojs/plugin-sass@2.1.5":
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/@tarojs/plugin-sass/download/@tarojs/plugin-sass-2.1.5.tgz#f0ea12bb4269b9d778db204a18f15e6742a28fe5"
-  integrity sha1-8OoSu0Jpudd42yBKGPFeZ0Kij+U=
+"@tarojs/plugin-sass@2.1.4":
+  version "2.1.4"
+  resolved "https://registry.npm.taobao.org/@tarojs/plugin-sass/download/@tarojs/plugin-sass-2.1.4.tgz#4b432016223cbc97dc145cfb4a620c1d8684525c"
+  integrity sha1-S0MgFiI8vJfcFFz7SmIMHYaEUlw=
   dependencies:
     node-sass "^4.12.0"
     scss-bundle "^2.5.1"
 
-"@tarojs/router@2.1.5":
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/@tarojs/router/download/@tarojs/router-2.1.5.tgz?cache=0&sync_timestamp=1587393778276&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40tarojs%2Frouter%2Fdownload%2F%40tarojs%2Frouter-2.1.5.tgz#c6466f4f07d7962627bf8b293263e1130e27cb4f"
-  integrity sha1-xkZvTwfXliYnv4spMmPhEw4ny08=
+"@tarojs/router@2.1.4":
+  version "2.1.4"
+  resolved "https://registry.npm.taobao.org/@tarojs/router/download/@tarojs/router-2.1.4.tgz?cache=0&sync_timestamp=1587393778276&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40tarojs%2Frouter%2Fdownload%2F%40tarojs%2Frouter-2.1.4.tgz#8b3b990deaaede49f527a020d0b967081d9abfb1"
+  integrity sha1-izuZDequ3kn1J6Ag0LlnCB2av7E=
   dependencies:
     invariant "2.2.4"
     lodash "4.17.13"
@@ -1167,27 +1167,20 @@
   dependencies:
     scss-bundle "^3.0.2"
 
-"@tarojs/runner-utils@2.1.5":
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/@tarojs/runner-utils/download/@tarojs/runner-utils-2.1.5.tgz#95abb05f13eaf4014604f4120be13a95601186e5"
-  integrity sha1-lauwXxPq9AFGBPQSC+E6lWARhuU=
+"@tarojs/taro-alipay@2.1.4":
+  version "2.1.4"
+  resolved "https://registry.npm.taobao.org/@tarojs/taro-alipay/download/@tarojs/taro-alipay-2.1.4.tgz?cache=0&sync_timestamp=1587393792076&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40tarojs%2Ftaro-alipay%2Fdownload%2F%40tarojs%2Ftaro-alipay-2.1.4.tgz#7699a8643a57725a7cbe263298d5b280186c90db"
+  integrity sha1-dpmoZDpXclp8viYymNWygBhskNs=
   dependencies:
-    scss-bundle "^3.0.2"
-
-"@tarojs/taro-alipay@2.1.5":
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/@tarojs/taro-alipay/download/@tarojs/taro-alipay-2.1.5.tgz?cache=0&sync_timestamp=1587393792076&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40tarojs%2Ftaro-alipay%2Fdownload%2F%40tarojs%2Ftaro-alipay-2.1.5.tgz#ec662fb9875a8e39c7e971e1dc94c8e1ab794ff7"
-  integrity sha1-7GYvuYdajjnH6XHh3JTI4at5T/c=
-  dependencies:
-    "@tarojs/taro" "2.1.5"
-    "@tarojs/utils" "2.1.5"
+    "@tarojs/taro" "2.1.4"
+    "@tarojs/utils" "2.1.4"
     lodash "^4.17.10"
     prop-types "^15.6.1"
 
-"@tarojs/taro-h5@2.1.5":
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/@tarojs/taro-h5/download/@tarojs/taro-h5-2.1.5.tgz#16e0d120f7ffe87d7ca250f53b2fa19a15d4f153"
-  integrity sha1-FuDRIPf/6H18olD1Oy+hmhXU8VM=
+"@tarojs/taro-h5@2.1.4":
+  version "2.1.4"
+  resolved "https://registry.npm.taobao.org/@tarojs/taro-h5/download/@tarojs/taro-h5-2.1.4.tgz#0f6016ba5ec3c43202e97ea58d20bf619b750eac"
+  integrity sha1-D2AWul7DxDIC6X6ljSC/YZt1Dqw=
   dependencies:
     base64-js "^1.3.0"
     jsonp-retry "^1.0.3"
@@ -1195,32 +1188,32 @@
     raf "^3.4.1"
     whatwg-fetch "^2.0.4"
 
-"@tarojs/taro-qq@2.1.5":
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/@tarojs/taro-qq/download/@tarojs/taro-qq-2.1.5.tgz#c1ec2f5e7663be04a76454b7a75ba3e0a2d1541f"
-  integrity sha1-wewvXnZjvgSnZFS3p1uj4KLRVB8=
+"@tarojs/taro-qq@2.1.4":
+  version "2.1.4"
+  resolved "https://registry.npm.taobao.org/@tarojs/taro-qq/download/@tarojs/taro-qq-2.1.4.tgz#b29f44ca698e73bcd1dfdadc7b9ba6b095dfdde1"
+  integrity sha1-sp9EymmOc7zR39rce5umsJXf3eE=
   dependencies:
-    "@tarojs/taro" "2.1.5"
-    "@tarojs/utils" "2.1.5"
+    "@tarojs/taro" "2.1.4"
+    "@tarojs/utils" "2.1.4"
     lodash "^4.17.10"
     prop-types "^15.6.1"
 
-"@tarojs/taro-quickapp@2.1.5":
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/@tarojs/taro-quickapp/download/@tarojs/taro-quickapp-2.1.5.tgz#90363f08a81d8df39d8bb75f10fd997418e06910"
-  integrity sha1-kDY/CKgdjfOdi7dfEP2ZdBjgaRA=
+"@tarojs/taro-quickapp@2.1.4":
+  version "2.1.4"
+  resolved "https://registry.npm.taobao.org/@tarojs/taro-quickapp/download/@tarojs/taro-quickapp-2.1.4.tgz#fcfb8e7156575863ee90fcc07f230fe554d4b376"
+  integrity sha1-/PuOcVZXWGPukPzAfyMP5VTUs3Y=
   dependencies:
-    "@tarojs/taro" "2.1.5"
-    "@tarojs/utils" "2.1.5"
+    "@tarojs/taro" "2.1.4"
+    "@tarojs/utils" "2.1.4"
     lodash "^4.17.10"
     prop-types "^15.6.1"
 
-"@tarojs/taro-rn@2.1.5":
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/@tarojs/taro-rn/download/@tarojs/taro-rn-2.1.5.tgz#7689eee14fd7e07c34f4ef0475fb30b49bf0bb31"
-  integrity sha1-donu4U/X4Hw09O8EdfswtJvwuzE=
+"@tarojs/taro-rn@2.1.4":
+  version "2.1.4"
+  resolved "https://registry.npm.taobao.org/@tarojs/taro-rn/download/@tarojs/taro-rn-2.1.4.tgz#98358df513f33fbe44e60a4d44547362ccb42d83"
+  integrity sha1-mDWN9RPzP75E5gpNRFRzYsy0LYM=
   dependencies:
-    "@tarojs/taro" "2.1.5"
+    "@tarojs/taro" "2.1.4"
     babel-preset-expo "^5.2.0"
     base64-js "^1.3.0"
     expo-av "^6.0.0"
@@ -1238,33 +1231,33 @@
     react-native-stylekit "^1.0.0"
     react-native-unimodules "^0.5.3"
 
-"@tarojs/taro-swan@2.1.5":
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/@tarojs/taro-swan/download/@tarojs/taro-swan-2.1.5.tgz?cache=0&sync_timestamp=1587393786064&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40tarojs%2Ftaro-swan%2Fdownload%2F%40tarojs%2Ftaro-swan-2.1.5.tgz#eab0484338310091cab46ad3c57f2c6481a505aa"
-  integrity sha1-6rBIQzgxAJHKtGrTxX8sZIGlBao=
+"@tarojs/taro-swan@2.1.4":
+  version "2.1.4"
+  resolved "https://registry.npm.taobao.org/@tarojs/taro-swan/download/@tarojs/taro-swan-2.1.4.tgz?cache=0&sync_timestamp=1587393786064&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40tarojs%2Ftaro-swan%2Fdownload%2F%40tarojs%2Ftaro-swan-2.1.4.tgz#25385f7bf9ddf91898bce80e4e5e7f37d6b6226e"
+  integrity sha1-JThfe/nd+RiYvOgOTl5/N9a2Im4=
   dependencies:
-    "@tarojs/taro" "2.1.5"
-    "@tarojs/utils" "2.1.5"
+    "@tarojs/taro" "2.1.4"
+    "@tarojs/utils" "2.1.4"
     lodash "^4.17.10"
     prop-types "^15.6.1"
 
-"@tarojs/taro-tt@2.1.5":
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/@tarojs/taro-tt/download/@tarojs/taro-tt-2.1.5.tgz?cache=0&sync_timestamp=1587393784441&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40tarojs%2Ftaro-tt%2Fdownload%2F%40tarojs%2Ftaro-tt-2.1.5.tgz#ed4364c182ea59c5aebc5f6c83570d59a13f4932"
-  integrity sha1-7UNkwYLqWcWuvF9sg1cNWaE/STI=
+"@tarojs/taro-tt@2.1.4":
+  version "2.1.4"
+  resolved "https://registry.npm.taobao.org/@tarojs/taro-tt/download/@tarojs/taro-tt-2.1.4.tgz?cache=0&sync_timestamp=1587393784441&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40tarojs%2Ftaro-tt%2Fdownload%2F%40tarojs%2Ftaro-tt-2.1.4.tgz#c33aa29e9735efa8b8f98ca1991ecdcce1b35c27"
+  integrity sha1-wzqinpc176i4+YyhmR7NzOGzXCc=
   dependencies:
-    "@tarojs/taro" "2.1.5"
-    "@tarojs/utils" "2.1.5"
+    "@tarojs/taro" "2.1.4"
+    "@tarojs/utils" "2.1.4"
     lodash "^4.17.10"
     prop-types "^15.6.1"
 
-"@tarojs/taro-weapp@2.1.5":
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/@tarojs/taro-weapp/download/@tarojs/taro-weapp-2.1.5.tgz?cache=0&sync_timestamp=1587393794521&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40tarojs%2Ftaro-weapp%2Fdownload%2F%40tarojs%2Ftaro-weapp-2.1.5.tgz#df88d807ed8fc6f5df445fad9138f6c2ab409fb3"
-  integrity sha1-34jYB+2PxvXfRF+tkTj2wqtAn7M=
+"@tarojs/taro-weapp@2.1.4":
+  version "2.1.4"
+  resolved "https://registry.npm.taobao.org/@tarojs/taro-weapp/download/@tarojs/taro-weapp-2.1.4.tgz?cache=0&sync_timestamp=1587393794521&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40tarojs%2Ftaro-weapp%2Fdownload%2F%40tarojs%2Ftaro-weapp-2.1.4.tgz#9a45100dbcf4f3ea12e418f570f4ed25ad3fa206"
+  integrity sha1-mkUQDbz08+oS5Bj1cPTtJa0/ogY=
   dependencies:
-    "@tarojs/taro" "2.1.5"
-    "@tarojs/utils" "2.1.5"
+    "@tarojs/taro" "2.1.4"
+    "@tarojs/utils" "2.1.4"
     lodash "^4.17.10"
     prop-types "^15.6.1"
 
@@ -1275,17 +1268,10 @@
   dependencies:
     "@tarojs/utils" "2.1.4"
 
-"@tarojs/taro@2.1.5":
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/@tarojs/taro/download/@tarojs/taro-2.1.5.tgz?cache=0&sync_timestamp=1587393781498&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40tarojs%2Ftaro%2Fdownload%2F%40tarojs%2Ftaro-2.1.5.tgz#9d6d14a3edcc19075846d7177d6e070b4736fca9"
-  integrity sha1-nW0Uo+3MGQdYRtcXfW4HC0c2/Kk=
-  dependencies:
-    "@tarojs/utils" "2.1.5"
-
-"@tarojs/taroize@2.1.5":
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/@tarojs/taroize/download/@tarojs/taroize-2.1.5.tgz#ed9f6b205270fc84c0ba871804c8ea446be5f24c"
-  integrity sha1-7Z9rIFJw/ITAuocYBMjqRGvl8kw=
+"@tarojs/taroize@2.1.4":
+  version "2.1.4"
+  resolved "https://registry.npm.taobao.org/@tarojs/taroize/download/@tarojs/taroize-2.1.4.tgz#54ceb24344a89631dc1ae6fea33ca7e1c7cb6593"
+  integrity sha1-VM6yQ0SoljHcGub+ozyn4cfLZZM=
   dependencies:
     "@babel/code-frame" "^7.0.0"
     babel-core "^6.26.3"
@@ -1330,62 +1316,26 @@
     prettier "^1.14.2"
     typescript "^3.2.2"
 
-"@tarojs/transformer-wx@2.1.5":
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/@tarojs/transformer-wx/download/@tarojs/transformer-wx-2.1.5.tgz#9ab61c86bab2d43ad52f1d9d581ba8b5a6c0b108"
-  integrity sha1-mrYchrqy1DrVLx2dWBuotabAsQg=
-  dependencies:
-    "@babel/code-frame" "^7.0.0-beta.44"
-    babel-core "^6.26.3"
-    babel-eslint "^8.2.3"
-    babel-helper-evaluate-path "^0.5.0"
-    babel-helper-mark-eval-scopes "^0.4.3"
-    babel-helper-remove-or-void "^0.4.3"
-    babel-plugin-danger-remove-unused-import "^1.1.1"
-    babel-plugin-minify-dead-code "^1.3.2"
-    babel-plugin-preval "1.6.2"
-    babel-plugin-syntax-dynamic-import "^6.18.0"
-    babel-plugin-transform-class-properties "^6.24.1"
-    babel-plugin-transform-define "^1.3.0"
-    babel-plugin-transform-do-expressions "^6.22.0"
-    babel-plugin-transform-es2015-template-literals "^6.22.0"
-    babel-plugin-transform-export-extensions "^6.22.0"
-    babel-plugin-transform-flow-strip-types "^6.22.0"
-    babel-traverse "^6.26.0"
-    babel-types "^6.26.0"
-    eslint "5.16.0"
-    eslint-plugin-react "7.10.0"
-    eslint-plugin-taro "2.1.5"
-    html "^1.0.0"
-    lodash "^4.17.5"
-    prettier "^1.14.2"
-    typescript "^3.2.2"
-
 "@tarojs/utils@2.1.4":
   version "2.1.4"
   resolved "https://registry.npm.taobao.org/@tarojs/utils/download/@tarojs/utils-2.1.4.tgz?cache=0&sync_timestamp=1587047409857&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40tarojs%2Futils%2Fdownload%2F%40tarojs%2Futils-2.1.4.tgz#aa2312eb3fcf5fccb2ac03fde30aeb3aa19650b6"
   integrity sha1-qiMS6z/PX8yyrAP94wrrOqGWULY=
 
-"@tarojs/utils@2.1.5":
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/@tarojs/utils/download/@tarojs/utils-2.1.5.tgz#055cd8f8b240eeb1cee398ffbbe726ba7a49fcd5"
-  integrity sha1-BVzY+LJA7rHO45j/u+cmunpJ/NU=
-
-"@tarojs/webpack-runner@2.1.5":
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/@tarojs/webpack-runner/download/@tarojs/webpack-runner-2.1.5.tgz?cache=0&sync_timestamp=1587393793109&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40tarojs%2Fwebpack-runner%2Fdownload%2F%40tarojs%2Fwebpack-runner-2.1.5.tgz#8e534031b936d27e2e8cb94deadd2ba4e2bc8558"
-  integrity sha1-jlNAMbk20n4ujLlN6t0rpOK8hVg=
+"@tarojs/webpack-runner@2.1.4":
+  version "2.1.4"
+  resolved "https://registry.npm.taobao.org/@tarojs/webpack-runner/download/@tarojs/webpack-runner-2.1.4.tgz?cache=0&sync_timestamp=1587393793109&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40tarojs%2Fwebpack-runner%2Fdownload%2F%40tarojs%2Fwebpack-runner-2.1.4.tgz#2449875e41a51fc8d1623eaa27cfa4604ab72ae8"
+  integrity sha1-JEmHXkGlH8jRYj6qJ8+kYEq3Kug=
   dependencies:
-    "@tarojs/plugin-sass" "2.1.5"
-    "@tarojs/runner-utils" "2.1.5"
-    "@tarojs/taro" "2.1.5"
-    "@tarojs/taro-h5" "2.1.5"
+    "@tarojs/plugin-sass" "2.1.4"
+    "@tarojs/runner-utils" "2.1.4"
+    "@tarojs/taro" "2.1.4"
+    "@tarojs/taro-h5" "2.1.4"
     autoprefixer "8.6.4"
     babel-core "6.26.0"
     babel-loader "7.1.4"
     babel-plugin-syntax-dynamic-import "6.18.0"
     babel-plugin-transform-react-jsx "6.24.1"
-    babel-plugin-transform-taroapi "2.1.5"
+    babel-plugin-transform-taroapi "2.1.4"
     babel-types "6.26.0"
     chalk "2.4.2"
     copy-webpack-plugin "^5.0.3"
@@ -1402,8 +1352,8 @@
     opn "5.3.0"
     ora "2.1.0"
     postcss-loader "2.1.6"
-    postcss-plugin-constparse "2.1.5"
-    postcss-pxtransform "2.1.5"
+    postcss-plugin-constparse "2.1.4"
+    postcss-pxtransform "2.1.4"
     resolve "1.8.1"
     resolve-url-loader "2.3.0"
     sass "^1.23.1"
@@ -3022,10 +2972,10 @@ babel-plugin-transform-jsx-stylesheet@^0.6.5:
   dependencies:
     camelcase "^3.0.0"
 
-babel-plugin-transform-jsx-to-stylesheet@2.1.5:
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/babel-plugin-transform-jsx-to-stylesheet/download/babel-plugin-transform-jsx-to-stylesheet-2.1.5.tgz#266a5ae6655c3dbead1ccbbe943d2e097502ae60"
-  integrity sha1-Jmpa5mVcPb6tHMu+lD0uCXUCrmA=
+babel-plugin-transform-jsx-to-stylesheet@2.1.4:
+  version "2.1.4"
+  resolved "https://registry.npm.taobao.org/babel-plugin-transform-jsx-to-stylesheet/download/babel-plugin-transform-jsx-to-stylesheet-2.1.4.tgz#05dc9037748d0edb5418c90dfe30b1c056760fd6"
+  integrity sha1-BdyQN3SNDttUGMkN/jCxwFZ2D9Y=
 
 babel-plugin-transform-object-rest-spread@^6.26.0:
   version "6.26.0"
@@ -3071,10 +3021,10 @@ babel-plugin-transform-taroapi@1.3.15:
   resolved "https://registry.npm.taobao.org/babel-plugin-transform-taroapi/download/babel-plugin-transform-taroapi-1.3.15.tgz#413de3cc47389387bbd36be292d8945d36caf52e"
   integrity sha1-QT3jzEc4k4e702viktiUXTbK9S4=
 
-babel-plugin-transform-taroapi@2.1.5:
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/babel-plugin-transform-taroapi/download/babel-plugin-transform-taroapi-2.1.5.tgz?cache=0&sync_timestamp=1587393773866&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fbabel-plugin-transform-taroapi%2Fdownload%2Fbabel-plugin-transform-taroapi-2.1.5.tgz#26773fdf270648d933f738bfbd984778ceba670a"
-  integrity sha1-Jnc/3ycGSNkz9zi/vZhHeM66Zwo=
+babel-plugin-transform-taroapi@2.1.4:
+  version "2.1.4"
+  resolved "https://registry.npm.taobao.org/babel-plugin-transform-taroapi/download/babel-plugin-transform-taroapi-2.1.4.tgz?cache=0&sync_timestamp=1587393773866&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fbabel-plugin-transform-taroapi%2Fdownload%2Fbabel-plugin-transform-taroapi-2.1.4.tgz#01853a7852c3e2ba0e70adf38296268de76c2377"
+  integrity sha1-AYU6eFLD4roOcK3zgpYmjedsI3c=
 
 babel-preset-env@^1.6.1:
   version "1.7.0"
@@ -5303,12 +5253,12 @@ eslint-config-airbnb@^17.1.0:
     object.assign "^4.1.0"
     object.entries "^1.1.0"
 
-eslint-config-taro@2.1.5:
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/eslint-config-taro/download/eslint-config-taro-2.1.5.tgz#52b04e30317e368f85ee84252c54ab8353b5bc63"
-  integrity sha1-UrBOMDF+No+F7oQlLFSrg1O1vGM=
+eslint-config-taro@2.1.4:
+  version "2.1.4"
+  resolved "https://registry.npm.taobao.org/eslint-config-taro/download/eslint-config-taro-2.1.4.tgz?cache=0&sync_timestamp=1587393778601&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Feslint-config-taro%2Fdownload%2Feslint-config-taro-2.1.4.tgz#c780fe7fc1988f283ab4f0b7977a5a68e24dbdaa"
+  integrity sha1-x4D+f8GYjyg6tPC3l3paaOJNvao=
   dependencies:
-    eslint-plugin-taro "2.1.5"
+    eslint-plugin-taro "2.1.4"
 
 eslint-import-resolver-node@^0.3.2:
   version "0.3.3"
@@ -5381,13 +5331,6 @@ eslint-plugin-taro@2.1.4:
   version "2.1.4"
   resolved "https://registry.npm.taobao.org/eslint-plugin-taro/download/eslint-plugin-taro-2.1.4.tgz#5f9a77c5b54cc47a960e9d3dd7b1cf53a974f2b3"
   integrity sha1-X5p3xbVMxHqWDp0917HPU6l08rM=
-  dependencies:
-    has "^1.0.1"
-
-eslint-plugin-taro@2.1.5:
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/eslint-plugin-taro/download/eslint-plugin-taro-2.1.5.tgz#c624dac53a61b5c5327b7d4cfce7901e6405079a"
-  integrity sha1-xiTaxTphtcUye31M/OeQHmQFB5o=
   dependencies:
     has "^1.0.1"
 
@@ -8941,7 +8884,7 @@ neo-async@^2.5.0, neo-async@^2.6.1:
   resolved "https://registry.npm.taobao.org/neo-async/download/neo-async-2.6.1.tgz#ac27ada66167fa8849a6addd837f6b189ad2081c"
   integrity sha1-rCetpmFn+ohJpq3dg39rGJrSCBw=
 
-nerv-devtools@^1.5.6:
+nerv-devtools@^1.5.5:
   version "1.5.6"
   resolved "https://registry.npm.taobao.org/nerv-devtools/download/nerv-devtools-1.5.6.tgz#2af0ef109918e5a5a7282f2cfb8a0d7e4a2858be"
   integrity sha1-KvDvEJkY5aWnKC8s+4oNfkooWL4=
@@ -8960,7 +8903,7 @@ nerv-utils@1.4.5:
   resolved "https://registry.npm.taobao.org/nerv-utils/download/nerv-utils-1.4.5.tgz#3e017a8a1b605b35ee31ad396a038207fbc597b0"
   integrity sha1-PgF6ihtgWzXuMa05agOCB/vFl7A=
 
-nervjs@1.5.6, nervjs@^1.5.6:
+nervjs@1.5.6, nervjs@^1.5.5:
   version "1.5.6"
   resolved "https://registry.npm.taobao.org/nervjs/download/nervjs-1.5.6.tgz#0451dd06993f7e3a885a6d1be3ea049ac51f1abd"
   integrity sha1-BFHdBpk/fjqIWm0b4+oEmsUfGr0=
@@ -10031,10 +9974,10 @@ postcss-modules-values@^3.0.0:
     icss-utils "^4.0.0"
     postcss "^7.0.6"
 
-postcss-plugin-constparse@2.1.5:
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/postcss-plugin-constparse/download/postcss-plugin-constparse-2.1.5.tgz?cache=0&sync_timestamp=1587393766404&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fpostcss-plugin-constparse%2Fdownload%2Fpostcss-plugin-constparse-2.1.5.tgz#e531f918645915e8e680d80eac2a84105e5998ce"
-  integrity sha1-5TH5GGRZFejmgNgOrCqEEF5ZmM4=
+postcss-plugin-constparse@2.1.4:
+  version "2.1.4"
+  resolved "https://registry.npm.taobao.org/postcss-plugin-constparse/download/postcss-plugin-constparse-2.1.4.tgz?cache=0&sync_timestamp=1587393766404&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fpostcss-plugin-constparse%2Fdownload%2Fpostcss-plugin-constparse-2.1.4.tgz#d899c338c01160bde0b1247b969c851317260936"
+  integrity sha1-2JnDOMARYL3gsSR7lpyFExcmCTY=
   dependencies:
     postcss "^6.0.22"
 
@@ -10050,14 +9993,6 @@ postcss-pxtransform@2.1.4:
   version "2.1.4"
   resolved "https://registry.npm.taobao.org/postcss-pxtransform/download/postcss-pxtransform-2.1.4.tgz#81146fc11e6dc672b6b160711c534b7a41134d89"
   integrity sha1-gRRvwR5txnK2sWBxHFNLekETTYk=
-  dependencies:
-    postcss "^6.0.16"
-    postcss-pxtorem "^4.0.1"
-
-postcss-pxtransform@2.1.5:
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/postcss-pxtransform/download/postcss-pxtransform-2.1.5.tgz#ccdb6831fb4ed81f9500a7d2af7c897cffb2147c"
-  integrity sha1-zNtoMftO2B+VAKfSr3yJfP+yFHw=
   dependencies:
     postcss "^6.0.16"
     postcss-pxtorem "^4.0.1"
@@ -12088,15 +12023,15 @@ style-search@^0.1.0:
   resolved "https://registry.npm.taobao.org/style-search/download/style-search-0.1.0.tgz#7958c793e47e32e07d2b5cafe5c0bf8e12e77902"
   integrity sha1-eVjHk+R+MuB9K1yv5cC/jhLneQI=
 
-stylelint-config-taro-rn@2.1.5:
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/stylelint-config-taro-rn/download/stylelint-config-taro-rn-2.1.5.tgz#92fbadf8a7aef78e7d4e9888fd62caccf11077b1"
-  integrity sha1-kvut+Keu9459TpiI/WLKzPEQd7E=
+stylelint-config-taro-rn@2.1.4:
+  version "2.1.4"
+  resolved "https://registry.npm.taobao.org/stylelint-config-taro-rn/download/stylelint-config-taro-rn-2.1.4.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fstylelint-config-taro-rn%2Fdownload%2Fstylelint-config-taro-rn-2.1.4.tgz#337a052704351308c400c4da840fafe4e991891d"
+  integrity sha1-M3oFJwQ1EwjEAMTahA+v5OmRiR0=
 
-stylelint-taro-rn@2.1.5:
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/stylelint-taro-rn/download/stylelint-taro-rn-2.1.5.tgz#4eeabeba536cbb7a10515ae14807bccaaae69723"
-  integrity sha1-Tuq+ulNsu3oQUVrhSAe8yqrmlyM=
+stylelint-taro-rn@2.1.4:
+  version "2.1.4"
+  resolved "https://registry.npm.taobao.org/stylelint-taro-rn/download/stylelint-taro-rn-2.1.4.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fstylelint-taro-rn%2Fdownload%2Fstylelint-taro-rn-2.1.4.tgz#1e4072d54ff6dda6b6a25741ae39493406abdf88"
+  integrity sha1-HkBy1U/23aa2oldBrjlJNAar34g=
   dependencies:
     react-native-known-styling-properties "^1.0.4"
 
@@ -12277,10 +12212,10 @@ tar@^2.0.0:
     fstream "^1.0.12"
     inherits "2"
 
-taro-css-to-react-native@2.1.5:
-  version "2.1.5"
-  resolved "https://registry.npm.taobao.org/taro-css-to-react-native/download/taro-css-to-react-native-2.1.5.tgz#5d2c476da9094e9c22c65b1dcf178dcb98b0740d"
-  integrity sha1-XSxHbakJTpwixlsdzxeNy5iwdA0=
+taro-css-to-react-native@2.1.4:
+  version "2.1.4"
+  resolved "https://registry.npm.taobao.org/taro-css-to-react-native/download/taro-css-to-react-native-2.1.4.tgz#e18343a0ae26fd2b717e84e141c5b975a761687d"
+  integrity sha1-4YNDoK4m/StxfoThQcW5dadhaH0=
   dependencies:
     camelize "^1.0.0"
     css "^2.2.4"
